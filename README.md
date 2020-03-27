@@ -1,5 +1,5 @@
 # shine-keylogger
-that keylogger it get ip info and keyborde input and send it in a emial 
+that keylogger it get ip info and keyboarder  input and send it in a email 
 
 install 
 
